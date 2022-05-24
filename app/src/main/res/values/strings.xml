@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BookNumber</string>
+    <string name="name">Name</string>
+    <string name="number">Number</string>
+    <string name="save">Save</string>
+    <string name="nameError">Enter Name</string>
+    <string name="numberError">Enter Number</string>
+    <string name="Search">Search</string>
+</resources>
